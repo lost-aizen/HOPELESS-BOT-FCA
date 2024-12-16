@@ -1,6 +1,6 @@
 {
-  "name": "hopeless-fca",
-  "version": "3.0.0",
+  "name": "HOPELESS-BOT-FCA",
+  "version": "1.0.0",
   "description": "A Facebook chat API",
   "scripts": {
     "test": "mocha",
